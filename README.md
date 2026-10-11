@@ -77,10 +77,6 @@ I build Java backends with Spring Boot and Hibernate, backed by MySQL and secure
 
 <img alt="GitHub contribution streak stats" src="https://streak-stats.demolab.com?user=KiranKumarBodeddula&theme=tokyonight&hide_border=true" />
 
-<img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KiranKumarBodeddula&theme=tokyo-night&hide_border=true" />
-
-<img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=KiranKumarBodeddula&theme=tokyonight&no-frame=true&row=1&column=7" />
-
 </div>
 
 ## 📬 Let's Connect
