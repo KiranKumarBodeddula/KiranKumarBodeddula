@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-kumar-bodeddula)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankumarbodeddula@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KiranKumarBodeddula)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BKIRANKUMAR/)
 
 </div>
 
@@ -76,6 +77,17 @@ I build Java backends with Spring Boot and Hibernate, backed by MySQL and secure
 <img height="170" alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarBodeddula&layout=compact&hide_border=true&theme=tokyonight" />
 
 <img alt="GitHub contribution streak stats" src="https://streak-stats.demolab.com?user=KiranKumarBodeddula&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/BKIRANKUMAR?theme=dark&font=Karla&ext=heatmap">
+  <img alt="LeetCode stats for BKIRANKUMAR: problems solved and submission heatmap" src="https://leetcard.jacoblin.cool/BKIRANKUMAR?theme=light&font=Karla&ext=heatmap" />
+</picture>
 
 </div>
 
